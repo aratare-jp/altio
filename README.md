@@ -1,35 +1,29 @@
-<p align="center"><img src="docs/assets/images/logo/logo.png?raw=true" alt="epsilon logo"></p>
+# `Altio`
 
-# `epsilon-clj`
-
-[![codecov](https://codecov.io/gh/aratare-jp/epsilon-clj/branch/master/graph/badge.svg?token=RJCEPYBF3I)](https://codecov.io/gh/aratare-jp/epsilon-clj)
-
-| Branch | Status |
-|----|----|
-|Master|![Master](https://github.com/aratare-jp/epsilon-clj/workflows/Clojure%20CI/badge.svg?branch=master)|
-|Develop|![Develop](https://github.com/aratare-jp/epsilon-clj/workflows/Clojure%20CI/badge.svg?branch=develop)|
-
-A neat wrapper around [Eclipse Epsilon](https://www.eclipse.org/epsilon/) to add
-various goodness.
+Fast, efficient, and delight-to-use code generator. Built from scratch.
 
 # Status
-`ALPHA`
+`Inception`
 
 # Features
 
-- [x] XML model
-- [ ] EDN model
-- [ ] JSON model
-- [x] Hot-reload on file changes
+- [ ] ⚡ _Fast_
+- [ ] Support for popular data formats:
+    - [ ] XML
+    - [ ] EDN
+    - [ ] JSON
+- [ ] Hot-reload
 - [ ] REPL
+- [ ] Friendly and straightforward templating language
+- [ ] Merge engine for custom code preservation
 
-# [Installation](https://aratare-jp.github.io/epsilon-clj/latest/installation/)
+# [Installation]()
 
-# [About](https://aratare-jp.github.io/epsilon-clj/latest/about/)
+# [About]()
 
-# [Quick start](https://aratare-jp.github.io/epsilon-clj/latest/quick-start/)
+# [Quick start]()
 
-# [Documentation](https://aratare-jp.github.io/epsilon-clj/latest/)
+# [Documentation]()
 
 # Contributing
 
@@ -37,7 +31,7 @@ Currently, any features listed in this project are subjective to what I need on
 a daily basis. If there is a feature you want to add, feel free to let me know
 via issues, or if you feel generous, perhaps even a PR.
 
-# [License](https://github.com/aratare-tech/epsilon-clj/blob/master/LICENSE)
+# [License](https://github.com/aratare-jp/altio/blob/master/LICENSE)
 
 Copyright 2020 Rex Truong
 
